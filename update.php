@@ -1,1 +1,1 @@
-{"message":{"versionCode":"201","url":"http://siriusl.com/RecoDemo.apk","info":"update"}}
+{"message":{"versionCode":"201","url":"https://siriusm.github.io/Project.github.io/data.xml","info":"update"}}
