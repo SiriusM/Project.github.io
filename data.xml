@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-    <version> 103 </version>
+    <version> 104 </version>
    
      <!-- //drug_a命名的-->
     <drug id="druga01">
@@ -66,6 +66,10 @@
      <drug id="druga16">
         <name>三金片</name>
         <function>口服.1.慢性非细菌性前列腺炎：一次3片,一日3次.疗程为4周.2.其他适应症：一次3片,一日3～4次</function>
+    </drug>
+    <drug id="druga17">
+        <name>麝香接骨胶囊</name>
+        <function>口服.一次5粒,一日3次</function>
     </drug>
     <!-- //drug_b命名的-->
     <drug id="drug01">
