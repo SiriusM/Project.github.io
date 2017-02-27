@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-    <version> 102 </version>
+    <version> 103 </version>
    
      <!-- //drug_a命名的-->
     <drug id="druga01">
@@ -46,6 +46,26 @@
     <drug id="druga11">
         <name>消炎止痢灵片</name>
         <function>口服,一次4-6片,一日3次</function>
+    </drug>
+     <drug id="druga12">
+        <name>复方阿嗪米特肠溶片</name>
+        <function>成人:一日三次,餐后服用,每次1-2片</function>
+    </drug>
+     <drug id="druga13">
+        <name>万通筋骨片</name>
+        <function>口服,一次2片,一日2-3次;或遵医嘱</function>
+    </drug>
+     <drug id="druga14">
+        <name>小金丸</name>
+        <function>打碎后口服,一次1.2-3g,一日2次,小儿酌减</function>
+    </drug>
+     <drug id="druga15">
+        <name>风湿关节炎片</name>
+        <function>口服一次仅4片,一日2次</function>
+    </drug>
+     <drug id="druga16">
+        <name>三金片</name>
+        <function>口服.1.慢性非细菌性前列腺炎：一次3片,一日3次.疗程为4周.2.其他适应症：一次3片,一日3～4次</function>
     </drug>
     <!-- //drug_b命名的-->
     <drug id="drug01">
