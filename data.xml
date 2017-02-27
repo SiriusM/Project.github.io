@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
     <version> 101 </version>
+   
+     <!-- //drug_a命名的-->
+    <drug id="druga01">
+        <name>开胸顺气丸</name>
+        <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
+    </drug>
+    <drug id="druga02">
+        <name>垂盆草颗粒</name>
+        <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
+    </drug>
+    <drug id="druga03">
+        <name>牛黄清胃丸</name>
+        <function>口服,一次2丸,一日2次</function>
+    </drug>
+    <drug id="druga04">
+        <name>金振口服液</name>
+        <function>口服, 疗程： 5 — 7天,或遵医嘱</function>
+    </drug>
+    <drug id="druga05">
+        <name>肠胃宁胶囊</name>
+        <function>口服一次4-5粒,一日3次</function>
+    </drug>
+    <drug id="druga06">
+        <name>枫蓼肠胃康片</name>
+        <function>口服,一次4～6片,一日3次</function>
+    </drug>
+    <drug id="druga07">
+        <name>泻痢消片</name>
+        <function>一次三片,一日三次</function>
+    </drug>
+    <drug id="druga08">
+        <name>止泻保童颗粒</name>
+        <function>开水冲服,一次2.5克(一袋),一日2次</function>
+    </drug>
+    <drug id="druga09">
+        <name>黄芩素铝胶囊</name>
+        <function>一次4～6粒,一日2～3次或遵医嘱</function>
+    </drug>
+    <drug id="druga10">
+        <name>清林颗粒</name>
+        <function>开水冲服一次10g,一日2次小儿酌减</function>
+    </drug>
+    <drug id="druga11">
+        <name>消炎止痢灵片</name>
+        <function>口服,一次4-6片,一日3次</function>
+    </drug>
     <!-- //drug_b命名的-->
     <drug id="drug01">
         <name>麝香祛痛搽剂</name>
@@ -38,42 +84,5 @@
         <name>吡诺克辛滴眼液</name>
         <function>用前请充分摇匀,1次1~2滴,1日3~5次滴于眼内</function>
     </drug>
-	
-    <!-- //drug_a命名的-->
-    <drug id="druga01">
-        <name>开胸顺气丸</name>
-        <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
-    </drug>
-    <drug id="druga02">
-        <name>垂盆草颗粒</name>
-        <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
-    </drug>
-    <drug id="druga03">
-        <name>牛黄清胃丸</name>
-        <function>口服,一次2丸,一日2次</function>
-    </drug>
-    <drug id="druga04">
-        <name>金振口服液</name>
-        <function>口服, 疗程： 5 — 7天,或遵医嘱</function>
-    </drug>
-    <drug id="druga05">
-        <name>肠胃宁胶囊</name>
-        <function>口服一次4-5粒,一日3次</function>
-    </drug>
-    <drug id="druga06">
-        <name>枫蓼肠胃康片</name>
-        <function>口服,一次4～6片,一日3次</function>
-    </drug>
-    <drug id="druga07">
-        <name>泻痢消片</name>
-        <function>一次三片,一日三次</function>
-    </drug>
-    <drug id="druga08">
-        <name>止泻保童颗粒</name>
-        <function>开水冲服,一次2.5克(一袋),一日2次</function>
-    </drug>
-    <drug id="druga09">
-        <name>黄芩素铝胶囊</name>
-        <function>一次4～6粒,一日2～3次或遵医嘱</function>
-    </drug>
 </drugs>
+   
