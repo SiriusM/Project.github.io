@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 107</version>
+	<version> 108 </version>
 	<!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
         <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
-    </drug> 
-	<drug id="x002">
-        <name>抗菌消炎胶囊.</name>
-        <function>口服.一次2-4粒，一日3次，儿童酌减</function>
-    </drug>
-	 <drug id="x003">
-        <name>云南白药酊.</name>
-        <function>口服.一次3-5毫升，一日3次；外用，每次3分钟左右，一日3-5次</function>
-    </drug>
-	 <drug id="x001">
-        <name>头孢拉定分散片.</name>
-        <function>口服.一次1-2片，一日4次</function>
     </drug>
     <drug id="druga02">
         <name>垂盆草颗粒</name>
         <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
+    </drug>
+	  <drug id="X0010">
+        <name>保和丸.</name>
+        <function> 口服，一次8丸，一日3次</function>
+    </drug> 
+	<drug id="X0011">
+        <name>保和丸.</name>
+        <function> 口服，一次8丸，一日3次</function>
+    </drug>
+	 <drug id="X0012">
+        <name>保和丸.</name>
+        <function> 口服，一次8丸，一日3次</function>
     </drug>
     <drug id="druga03">
         <name>牛黄清胃丸</name>
