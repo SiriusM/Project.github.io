@@ -12,8 +12,11 @@
    c.文件中每编辑一个药品以 \<drug>\</drug>开始和结束,id是药品图片的名字,和Vuforia云端上的名字一致，\<name>\</name>表示药品的名字,\<function>\</function>表示药品的用法用量
 
 + 上传药品数据文件
- 
-
+   
+   ![药品数据上传](./picture/update.png)
+   
+   a.选择图中所示的upload files -> choose your files,选择上传的文件,待文件上传完成后，点击页面下的Commit Changes,文件上传完成.
+   
 ### (2).修改更新配置文件update.php
 
 ## 2、Apk版本更新
