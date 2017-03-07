@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 108 </version>
+	<version> 109 </version>
 	<!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
@@ -10,15 +10,39 @@
         <name>垂盆草颗粒</name>
         <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
     </drug>
-	  <drug id="X0010">
+	<drug id="X0010">
         <name>保和丸.</name>
         <function> 口服，一次8丸，一日3次</function>
     </drug> 
+	<drug id="X0018">
+        <name>健脾丸.</name>
+        <function> 口服，一次8丸，一日3次</function>
+    </drug>
+	<drug id="X0017">
+        <name>健脾丸.</name>
+        <function> 口服，一次8丸，一日3次</function>
+    </drug>
+	<drug id="X0016">
+        <name>附子理中丸.</name>
+        <function> 口服，一次8-12丸，一日3次</function>
+    </drug>
+    <drug id="X0015">
+        <name>附子理中丸.</name>
+        <function> 口服，一次8-12丸，一日3次</function>
+    </drug>
+	<drug id="X0013">
+        <name>川贝枇杷糖浆.</name>
+        <function> 口服，一次10毫升，一日3次</function>
+    </drug>	
+	<drug id="X0014">
+        <name>冬凌草糖浆.</name>
+        <function> 口服，一次10～20毫升，一日2次。</function>
+    </drug>
 	<drug id="X0011">
         <name>保和丸.</name>
         <function> 口服，一次8丸，一日3次</function>
     </drug>
-	 <drug id="X0012">
+	<drug id="X0012">
         <name>保和丸.</name>
         <function> 口服，一次8丸，一日3次</function>
     </drug>
