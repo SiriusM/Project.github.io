@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 109 </version>
-	<!-- //drug_a命名的-->
+     <version> 110 </version>
+     <!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
         <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
