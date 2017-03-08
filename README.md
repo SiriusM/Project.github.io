@@ -18,8 +18,9 @@
    a.选择图中所示的upload files -> choose your files,选择上传的文件,待文件上传完成后，点击页面下的Commit Changes,文件上传完成.
    
 ### (2).修改更新配置文件update.php
+
  + 点击配置文件update.php,进入配置文件
-   ![](./picture/configure.png)
+   ![](./picture/edit.png)
    上述配置文件中,vision表示apk的版本号，每次更新apk版本时+1，visionCode表示药品数据文件的版本号,每次更新药品数据版本号+1，**必须与data.xml版本号一致**，url是应用链接地址.
    
  + 修改配置文件
