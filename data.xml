@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 110 </version>
+	<version> 109 </version>
 	<!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
@@ -10,20 +10,6 @@
         <name>垂盆草颗粒</name>
         <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
     </drug>
-   
-   <drug id="x001">
-        <name>头孢拉定分散片</name>
-        <function>适用于急性咽炎,扁桃体炎,呼吸道感染,化于温水口服，成人1到2片，一日四次</function>
-    </drug>
-	 <drug id="x002">
-        <name>抗菌消炎胶囊</name>
-        <function>清热解表，泻火解毒。用于外感风热，内郁化火所致的风热感冒,咽喉肿痛,口服,一日2到4粒，一日三次，儿童酌减</function>
-    </drug>
-	 <drug id="x003">
-        <name>云南白药酊</name>
-        <function>活血化瘀，消肿止痛，用于跌打损伤,风湿麻木,筋骨及关节疼痛,肌肉酸痛及冻伤，口服一次3到5毫升，一日三次</function>
-    </drug>
-	
 	<drug id="X0010">
         <name>保和丸.</name>
         <function> 口服，一次8丸，一日3次</function>
