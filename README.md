@@ -20,9 +20,10 @@
 ### (2).修改更新配置文件update.php
  + 点击配置文件update.php,进入配置文件
    ![](./picture/configure.png)
-   上述配置文件中,vision表示apk的版本号，每次更新apk版本时+1，visionCode表示药品数据文件的版本号,每次更新药品数据版本号+1，*必须与data.xml版本号一致*，url是应用链接地址.
+   上述配置文件中,vision表示apk的版本号，每次更新apk版本时+1，visionCode表示药品数据文件的版本号,每次更新药品数据版本号+1，**必须与data.xml版本号一致**，url是应用链接地址.
    
  + 修改配置文件
+   点击图中编辑图标，进入编辑界面,更新药品数据时将versionCode的值+1，和data.xml保持一致，完成数据的更新
  
 ## 2、Apk版本更新
 ### (1).上传新版Apk版本
