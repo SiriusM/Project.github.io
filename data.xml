@@ -2,10 +2,11 @@
 <drugs>
     <version> 112</version>
     <!-- //X命名-->
-      <drug id="X0023">
-        <name>复方氨酚烷胺胶囊.</name>
-        <function>口服，成人一次一粒，一日两次</function>
-    </drug> 
+     <drug id="X0023">
+       <name>复方氨酚烷胺胶囊.</name>
+       <function>口服，成人一次一粒，一日两次</function>
+    </drug>
+	
     <drug id="X0024">
         <name>安乃近片.</name>
         <function>口服，成人一次1-2片，一日3次</function>
