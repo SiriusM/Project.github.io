@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-    <version> 112</version>
-    <!-- //X命名-->
-     <drug id="X0023">
-       <name>复方氨酚烷胺胶囊.</name>
-       <function>口服，成人一次一粒，一日两次</function>
-    </drug>
-	
-    <drug id="X0024">
-        <name>安乃近片.</name>
-        <function>口服，成人一次1-2片，一日3次</function>
-    </drug> 
-    <drug id="X0025">
-        <name>缬沙坦胶囊.</name>
-        <function>口服，成人一日一粒，一日三次</function>
-    </drug> 
-    <!-- //drug_a命名的-->
+	<version> 113</version>
+	<!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
         <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
@@ -24,6 +10,17 @@
         <name>抗菌消炎胶囊.</name>
         <function>口服.一次2-4粒，一日3次，儿童酌减</function>
     </drug>
+	     <drug id="X0023">
+       <name>复方氨酚烷胺胶囊.</name>
+       <function>口服,成人一次一粒,一日两次</function>
+    </drug>
+    <drug id="X0024">
+        <name>安乃近片.</name>
+        <function>口服,成人一次1-2片,一日3次</function>
+    </drug> 
+    <drug id="X0025">
+        <name>缬沙坦胶囊.</name>
+        <function>口服,成人一日一粒,一日三次</function>
 	 <drug id="x003">
         <name>云南白药酊.</name>
         <function>口服.一次3-5毫升，一日3次；外用，每次3分钟左右，一日3-5次</function>
