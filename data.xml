@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 115</version>
+	<version> 116</version>
 	<!-- //drug_a命名的-->
     <drug id="druga01">
         <name>开胸顺气丸</name>
@@ -21,6 +21,10 @@
 	<drug id="X0027">
        <name>发财树.</name>
        <function>小胡养的</function>
+    </drug>
+	<drug id="X0028">
+       <name>发财树.</name>
+       <function>瓜栗（学名:Pachira macrocarpa），又名发财树，小乔木，高4-5米，树冠较松散，幼枝栗褐色，无毛。</function>
     </drug>
     <drug id="X0024">
         <name>安乃近片.</name>
