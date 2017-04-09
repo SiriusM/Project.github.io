@@ -1,1 +1,120 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<drugs>
+	<version> 116</version>
+	<!-- //drug_a命名的-->
+    <drug id="druga01">
+        <name>开胸顺气丸</name>
+        <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
+    </drug> 
+	<drug id="x002">
+        <name>抗菌消炎胶囊.</name>
+        <function>口服.一次2-4粒，一日3次，儿童酌减</function>
+    </drug>
+	<drug id="X0026">
+        <name>绿萝.</name>
+        <function>绿萝（学名：Epipremnum aureum），属于麒麟叶属植物，大型常绿藤本，生长于热带地区，常攀援生长在雨林的岩石和树干上，其缠绕性强，气根发达，可以水培种植。</function>
+    </drug>
+	     <drug id="X0023">
+       <name>复方氨酚烷胺胶囊.</name>
+       <function>口服,成人一次一粒,一日两次</function>
+    </drug>
+	<drug id="X0027">
+       <name>发财树.</name>
+       <function>小胡养的</function>
+    </drug>
+	<drug id="X0028">
+       <name>发财树.</name>
+       <function>瓜栗（学名:Pachira macrocarpa），又名发财树，小乔木，高4-5米，树冠较松散，幼枝栗褐色，无毛。</function>
+    </drug>
+    <drug id="X0024">
+        <name>安乃近片.</name>
+        <function>口服,成人一次1-2片,一日3次</function>
+    </drug> 
+    <drug id="X0025">
+        <name>缬沙坦胶囊.</name>
+        <function>口服,成人一日一粒,一日三次</function>
+	 <drug id="x003">
+        <name>云南白药酊.</name>
+        <function>口服.一次3-5毫升，一日3次；外用，每次3分钟左右，一日3-5次</function>
+    </drug>
+	 <drug id="x001">
+        <name>头孢拉定分散片.</name>
+        <function>口服.一次1-2片，一日4次</function>
+    </drug>
+    <drug id="druga02">
+        <name>垂盆草颗粒</name>
+        <function>开水冲服,一次1袋,一日2-3次;或遵医嘱</function>
+    </drug>
+    <drug id="druga03">
+        <name>牛黄清胃丸</name>
+        <function>口服,一次2丸,一日2次</function>
+    </drug>
+    <drug id="druga04">
+        <name>金振口服液</name>
+        <function>口服, 疗程： 5 — 7天,或遵医嘱</function>
+    </drug>
+    <drug id="druga05">
+        <name>肠胃宁胶囊</name>
+        <function>口服一次4-5粒,一日3次</function>
+    </drug>
+    <drug id="druga06">
+        <name>枫蓼肠胃康片</name>
+        <function>口服,一次4～6片,一日3次</function>
+    </drug>
+    <drug id="druga07">
+        <name>泻痢消片</name>
+        <function>一次三片,一日三次</function>
+    </drug>
+    <drug id="druga08">
+        <name>止泻保童颗粒</name>
+        <function>开水冲服,一次2.5克(一袋),一日2次</function>
+    </drug>
+    <drug id="druga09">
+        <name>黄芩素铝胶囊</name>
+        <function>一次4～6粒,一日2～3次或遵医嘱</function>
+    </drug>
+	<drug id="test">
+        <name>藿香正气片</name>
+        <function>使用说明,遵医嘱</function>
+    </drug>
+    <!-- //drug_b命名的-->
+    <drug id="drug01">
+        <name>麝香祛痛搽剂</name>
+        <function>外用,涂搽患处,按摩5～10分钟至患处发热,一日2～3次；软组织扭伤严重或有出血者,将药液浸湿的棉垫敷于患处</function>
+    </drug>
+    <drug id="drug02">
+        <name>独活止痛搽剂</name>
+        <function>外用适量,涂搽患处,一日2次</function>
+    </drug>
+    <drug id="drug03">
+        <name>感冒清热颗粒</name>
+        <function>开水冲服,一次1袋,一日2次</function>
+    </drug>
+    <drug id="drug04">
+        <name>白花油</name>
+        <function>外用,搽抹患处</function>
+    </drug>
+    <drug id="drug05">
+        <name>独活止痛搽剂</name>
+        <function>外用适量,涂搽患处,一日2次</function>
+    </drug>
+    <drug id="drug06">
+        <name>硝酸益康唑喷雾剂</name>
+        <function>局部外用,喷于患处,每日2次</function>
+    </drug>
+    <drug id="drug07">
+        <name>克林酶素甲硝唑搽剂</name>
+        <function>外用,一次1-2滴滴于患处,一日3次,2周为一疗程</function>
+    </drug>
+    <drug id="drug08">
+        <name>酞丁安滴眼液</name>
+        <function>滴入眼睑内,一次1滴,一日2～4次</function>
+    </drug>
+    <drug id="drug09">
+        <name>吡诺克辛滴眼液</name>
+        <function>用前请充分摇匀,1次1~2滴,1日3~5次滴于眼内</function>
+    </drug>
+    
+</drugs>
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
