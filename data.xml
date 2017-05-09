@@ -2,7 +2,10 @@
 <drugs>
 	<version> 116</version>
 	<!-- //drug_a命名的-->
-	
+	   <drug id="x002">
+        <name>抗菌消炎胶囊.</name>
+        <function>口服.一次2-4粒，一日3次，儿童酌减</function>
+    	</drug>
   
 	
     <drug id="druga01">
