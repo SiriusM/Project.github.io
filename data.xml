@@ -2,10 +2,16 @@
 <drugs>
 	<version> 116</version>
 	<!-- //drug_a命名的-->
+	
+     <drug id="x002">
+        <name>抗菌消炎胶囊.</name>
+        <function>口服.一次2-4粒，一日3次，儿童酌减</function>
+    	</drug>
+	
     <drug id="druga01">
         <name>开胸顺气丸</name>
         <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
-   
+    </drug> 
 	<drug id="X0026">
         <name>绿萝.</name>
         <function>绿萝（学名：Epipremnum aureum），属于麒麟叶属植物，大型常绿藤本，生长于热带地区，常攀援生长在雨林的岩石和树干上，其缠绕性强，气根发达，可以水培种植。</function>
