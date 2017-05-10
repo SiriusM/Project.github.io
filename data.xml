@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 116</version>
+	<version> 117</version>
 	<!-- //drug_a命名的-->
-    <drug id="druga01">
-        <name>开胸顺气丸</name>
-        <function>口服.一次3g(半袋)-9g(1袋半),一日1—2次</function>
+    <drug id="x002">
+        <name>抗菌消炎胶囊</name>
+        <function>口服.一次2-4粒,一日3次，儿童酌减</function>
     </drug> 
-	<drug id="X0026">
-        <name>绿萝.</name>
-        <function>绿萝（学名：Epipremnum aureum），属于麒麟叶属植物，大型常绿藤本，生长于热带地区，常攀援生长在雨林的岩石和树干上，其缠绕性强，气根发达，可以水培种植。</function>
+	<drug id="X004">
+        <name>厄贝沙坦片.</name>
+        <function>每日150mg</function>
     </drug>
-	     <drug id="X0023">
-       <name>复方氨酚烷胺胶囊.</name>
-       <function>口服,成人一次一粒,一日两次</function>
+	     <drug id="X005">
+       <name>曲安奈德益康唑乳膏.</name>
+       <function>局部外用。取适量本品涂于患处，每日早晚各1次</function>
+		    <drug id="X006">
+       <name>曲安奈德益康唑乳膏.</name>
+       <function>局部外用。取适量本品涂于患处，每日早晚各1次</function>
     </drug>
-	     <drug id="X0036">
+	     <drug id="X011">
        <name>酚麻美敏片.</name>
-       <function>口服,成人一次一粒,一日两次</function>
+       <function>口服,12岁以上儿童及成人，一次1-2粒,每6小时服1次，24小时内不超过4次</function>
+		     <drug id="X014">
+       <name>酚麻美敏片.</name>
+       <function>口服,12岁以上儿童及成人，一次1-2粒,每6小时服1次，24小时内不超过4次</function>
     </drug>
-	     <drug id="X0037">
+	     <drug id="X015">
        <name>苯巴比妥东莨菪碱片.</name>
        <function>口服,成人一次一粒,一日两次</function>
     </drug>
-	<drug id="X0027">
-       <name>发财树.</name>
-       <function>小胡养的</function>
+	<drug id="X007">
+       <name>厄贝沙坦片.</name>
+       <function>每日150mg</function>
+		   </drug>
+	<drug id="X012">
+       <name>匹多莫德分散片.</name>
+       <function>将本品溶于水中后服用或吞服。开始两周，每次2片，一日2次，随后减为每次2次，一日1次，或遵医嘱。</function>
+		   </drug>
+	<drug id="X013">
+       <name>非洛地平缓释片.</name>
+       <function>口服,剂量应个体化。服药应在早晨，用水吞服，药片不能掰、压或嚼碎</function>
     </drug>
-	<drug id="X0028">
-       <name>发财树.</name>
-       <function>瓜栗（学名:Pachira macrocarpa），又名发财树，小乔木，高4-5米，树冠较松散，幼枝栗褐色，无毛。</function>
+	<drug id="X008">
+       <name>强力定眩片.</name>
+       <function>口服。一次4-6粒，一日3次。</function>
     </drug>
-    <drug id="X0024">
-        <name>安乃近片.</name>
-        <function>口服,成人一次1-2片,一日3次</function>
+    <drug id="X009">
+        <name>强力定眩片.</name>
+        <function>口服。一次4-6粒，一日3次</function>
     </drug> 
-    <drug id="X0025">
-        <name>缬沙坦胶囊.</name>
-        <function>口服,成人一日一粒,一日三次</function>
+    <drug id="X010">
+        <name>非洛地平缓释片.</name>
+        <function>口服,剂量应个体化。服药应在早晨，用水吞服，药片不能掰、压或嚼碎</function>
 	 <drug id="x003">
         <name>云南白药酊.</name>
         <function>口服.一次3-5毫升，一日3次；外用，每次3分钟左右，一日3-5次</function>
