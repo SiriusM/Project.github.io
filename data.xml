@@ -14,6 +14,14 @@
        <name>复方氨酚烷胺胶囊.</name>
        <function>口服,成人一次一粒,一日两次</function>
     </drug>
+	     <drug id="X0036">
+       <name>酚麻美敏片.</name>
+       <function>口服,成人一次一粒,一日两次</function>
+    </drug>
+	     <drug id="X0037">
+       <name>苯巴比妥东莨菪碱片.</name>
+       <function>口服,成人一次一粒,一日两次</function>
+    </drug>
 	<drug id="X0027">
        <name>发财树.</name>
        <function>小胡养的</function>
