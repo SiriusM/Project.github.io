@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 119</version>
+	<version> 120</version>
 	<!-- //drug_a命名的-->
     <drug id="x002">
         <name>抗菌消炎胶囊</name>
@@ -9,6 +9,42 @@
 	<drug id="X004">
         <name>厄贝沙坦片.</name>
         <function>每日150mg</function>
+		  </drug> 
+	<drug id="X017">
+        <name>复方对乙酰氨基酚片.</name>
+        <function>口服。6岁以上儿童一次0.5-1片；成人一次1-2片，一日3次</function>
+		  </drug> 
+	<drug id="X021">
+        <name>复方对乙酰氨基酚片.</name>
+        <function>口服。6岁以上儿童一次0.5-1片；成人一次1-2片，一日3次</function>
+		  </drug> 
+	<drug id="X018">
+        <name>百癣夏塔热片.</name>
+        <function>口服。一次3-5片，一日3次</function>
+		  </drug> 
+	<drug id="X022">
+        <name>百癣夏塔热片.</name>
+        <function>口服。一次3-5片，一日3次</function>
+		  </drug> 
+	<drug id="X023">
+        <name>气滞胃痛颗粒.</name>
+        <function>开水冲服。一次2.5克，一日3次</function>
+		  </drug> 
+	<drug id="X024">
+        <name>氯雷他定片.</name>
+        <function>口服。成人及12岁以上儿童：一日1次，一次1片（10豪克）</function>
+		 </drug> 
+	<drug id="X025">
+        <name>氯雷他定片.</name>
+        <function>口服。成人及12岁以上儿童：一日1次，一次1片（10豪克）</function>
+		  </drug> 
+	<drug id="X019">
+        <name>贝敏伪麻片.</name>
+        <function>口服，成人一次1片，一日3次</function>
+		  </drug> 
+	<drug id="X020">
+        <name>贝敏伪麻片.</name>
+        <function>口服，成人一次1片，一日3次</function>
     </drug>
 	     <drug id="X005">
        <name>曲安奈德益康唑乳膏.</name>
