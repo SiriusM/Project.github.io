@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 120</version>
+	<version> 121</version>
 	<!-- //drug_a命名的-->
     <drug id="x002">
         <name>抗菌消炎胶囊</name>
         <function>口服.一次2-4粒,一日3次，儿童酌减</function>
+	     <drug id="X026">
+        <name>100元人民币</name>
+        <function>新版</function>
+		     <drug id="X027">
+        <name>100元人民币</name>
+        <function>新版</function>
+      <drug id="X028">
+        <name>100元人民币</name>
+        <function>老版</function>
+	      <drug id="X029">
+        <name>100元人民币</name>
+        <function>老版</function>
+		      <drug id="X031">
+        <name>中国建设银行</name>
+        <function>银联</function>
+			      <drug id="X032">
+        <name>中国工商银行</name>
+        <function>银联</function>
     </drug> 
 	<drug id="X004">
         <name>厄贝沙坦片.</name>
