@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 123</version>
+	<version> 124</version>
 	<!-- //drug_a命名的-->
     <drug id="x002">
         <name>抗菌消炎胶囊</name>
@@ -8,6 +8,30 @@
 	     <drug id="X026">
         <name>100元人民币</name>
         <function>新版</function>
+		     <drug id="X042">
+        <name>20元人民</name>
+        <function>币</function>
+			      <drug id="X041">
+        <name>50元人民</name>
+        <function>币</function>
+				       <drug id="X043">
+        <name>50元人民</name>
+        <function>币</function>
+					        <drug id="X044">
+        <name>20元人民</name>
+        <function>币</function>
+			 <drug id="X045">
+        <name>5元人民</name>
+        <function>币</function>
+				  <drug id="X046">
+        <name>10元人民</name>
+        <function>币</function>
+					   <drug id="X047">
+        <name>10元人民</name>
+        <function>币</function>
+			    <drug id="X048">
+        <name>5元人民</name>
+        <function>币</function>
 		        <drug id="X033">
         <name>中国工商银行</name>
         <function>银联</function> 
