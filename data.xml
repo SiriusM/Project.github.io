@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <drugs>
-	<version> 122</version>
+	<version> 123</version>
 	<!-- //drug_a命名的-->
     <drug id="x002">
         <name>抗菌消炎胶囊</name>
