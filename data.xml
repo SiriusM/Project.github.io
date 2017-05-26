@@ -11,6 +11,18 @@
 		        <drug id="X033">
         <name>中国工商银行</name>
         <function>银联</function> 
+				<drug id="X037">
+        <name>中国银行</name>
+        <function>卡</function>
+					<drug id="X039">
+        <name>中国银行</name>
+        <function>卡</function>
+			<drug id="X038">
+        <name>广发银行</name>
+        <function>卡</function>
+				<drug id="X040">
+        <name>广发银行</name>
+        <function>卡</function>
 				  <drug id="X034">
         <name>中国工商银行</name>
         <function>银联</function>
